@@ -23,10 +23,10 @@ O projeto foi estruturado com uma navegação fluida e divide-se nas seguintes s
 # 🔗 Link para o Site no AWS CloudFront
 
 <p align="left">
-  <a href="https://dlj4pdyu1fq4u.cloudfront.net" target="_blank">Site no CloudFront</a>
+  <a href="https://dlj4pdyu1fq4u.cloudfront.net" target="_blank">Site: CloudFront</a>
 </p>
 <p align="left">
-  <a href="https://isadoravanderlan.github.io/portfolio-cloud-security-isadora-vanderlan/" target="_blank">Site no GitHub</a>
+  <a href="https://isadoravanderlan.github.io/portfolio-cloud-security-isadora-vanderlan/" target="_blank">Site: GitHub</a>
 </p>
 <p align="left">
     <img src="site-gif.gif" alt="Site Portfólio Cloud Security"/>
